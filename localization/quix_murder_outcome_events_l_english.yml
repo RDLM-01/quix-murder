@@ -1,31 +1,31 @@
 ﻿l_english:
  quix_murder_outcome.1001.t:0 "A Toasty Inn..."
- quix_murder_outcome.1001.d:0 "An opportunity arises. My agents have discovered [target.GetTitledFirstName] and entourage will be staying at an inn on an upcoming trip. This inn is made entirely from timber and has an old thatched roof. If we cannot easily get past [target.GetTitledFirstNamePossessive] guards, [target.GetSheHe] can just go up in the blaze as well. The best part about the plan is it leaves no evidence.\n\nIt could even have been an accident..."
+ quix_murder_outcome.1001.d:0 "An opportunity arises. My agents have discovered the inn that [target.GetTitledFirstName] and [target.GetHerHis] entourage will be staying at on their upcoming trip. The inn is made entirely from timber and has an old thatched roof, and the nearest river is more than a mile away. \n\nIt would be a disaster if the inn were to accidentally catch fire..."
  quix_murder_outcome.1001.a:0 "Burn, baby, burn."
  quix_murder_outcome.1001.b:0 "I happen to like that inn..."
 
  quix_murder_outcome.1002.t:0 "An Arrow to the Balcony..."
- quix_murder_outcome.1002.d:0 "In our efforts to rid the world of [target.GetTitledFirstName], a window of opportunity has appeared. Or, more fittingly, a balcony.\n\n It would appear that [target.GetTitledFirstName] has a favorite spot to take the air most afternoons. This balcony is across a small courtyard from a tavern.\n\n Even a mediocre bowman could make the shot..."
+ quix_murder_outcome.1002.d:0 "In our efforts to rid the world of [target.GetTitledFirstName], a window of opportunity has appeared. Or, more fittingly, a balcony.\n\n It would appear that [target.GetSheHe] is fond of making dramatic proclamations from on high. \n\nThe upper floor of a nearby inn has an excellent view of  [target.GetTitledFirstNamePossessive] balcony..."
  quix_murder_outcome.1002.a:0 "Send word for my best archer."
  quix_murder_outcome.1002.b:0 "No, that's too dignified for [target.GetTitledFirstName]."
 
  quix_murder_outcome.1003.t:0 "Dead Drunk."
- quix_murder_outcome.1003.d:0 "Tonight, while admiring a particularly fine bottle of wine, a thought occurred to me. Everyone knows that [target.GetName] is fond of a good bottle of wine. This particular vintage would make a fine present, and it could be recorked after the addition of some poision. Sent with a note of anonymous admiration...it just might work."
+ quix_murder_outcome.1003.d:0 "Tonight, while admiring a particularly fine bottle of wine, a thought occurred to me. Everyone knows that [target.GetName] is fond of a good drink, and this vintage would make a fine present. \n\nOf course, the wine will need a few additions before it is ready for [target.GetHerHim] - perhaps some hemlock?"
  quix_murder_outcome.1003.a:0 "A thoughtful gift indeed!"
  quix_murder_outcome.1003.b:0 "On second thought, I'll save it for a special occasion."
 
  quix_murder_outcome.1004.t:0 "Night Terror"
- quix_murder_outcome.1004.d:0 "Our agents have come up with a plan to rid oursleves of [target.GetName] . It would appear [target.GetSheHe] likes to take long walks most evenings, completely alone. It's a prime opportunity to make [target.GetHerHim] disappear into the darkness..."
- quix_murder_outcome.1004.a:0 "Pity no one will see the terror on [target.GetTitledFirstNamePossessive] face."
+ quix_murder_outcome.1004.d:0 "My agents have been diligently observing [target.GetTitledFirstNamePossessive] routine, and have noted that [target.GetSheHe] likes to take long walks most evenings, completely alone. It's a prime opportunity to make [target.GetHerHim] disappear into the darkness..."
+ quix_murder_outcome.1004.a:0 "A most unwise habit."
  quix_murder_outcome.1004.b:0 "Perhaps it is too simple. There is a better way."
 
  quix_murder_outcome.1005.t:0 "Stone Cold"
- quix_murder_outcome.1005.d:0 "We have learned [target.GetName] enjoys taking the air in a particular courtyard, beneath the town walls. Our agents have found that one of the massive stones could be loosed from the old wall, sending it crashing upon [target.GetTitledFirstNamePossessive] head."
- quix_murder_outcome.1005.a:0 "Let this rock roll!"
- quix_murder_outcome.1005.b:0 "This is wrong, [target.GetFirstNameNoTooltip] isn't worth damaging masonry."
+ quix_murder_outcome.1005.d:0 "We have learned [target.GetName] enjoys taking the air in a particular courtyard, beneath the town walls. Our agents have reported that the masonry on the walls is old and crumbling, and parts of it could collapse at any moment."
+ quix_murder_outcome.1005.a:0 "At any moment, you say?"
+ quix_murder_outcome.1005.b:0 "I prefer a more personal touch."
 
  quix_murder_outcome.1006.t:0 "Dereliction of Duty"
- quix_murder_outcome.1006.d:0 "[target.GetTitledFirstNamePossessive] fate draws near! Our agents have way in to [target.GetTitledFirstNamePossessive] own home. A servant, apparently offended by how they are treated by [target.GetTitledFirstName], has accepted a...small token of our appreciation, in exchange for allowing our an agent in at night. "
+ quix_murder_outcome.1006.d:0 "Our agents have found a way into [target.GetTitledFirstNamePossessive] own home. A servant, apparently offended by their treatment at [target.GetFirstNamePossessive] hands, has agreed to leave the bedroom window unlocked tomorrow night."
  quix_murder_outcome.1006.a:0 "Just make sure this servant doesn't talk."
  quix_murder_outcome.1006.b:0 "No, this could be a trap."
 
